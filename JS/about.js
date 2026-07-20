@@ -360,5 +360,3 @@ window.addEventListener('scroll', function() {
     }
   });
 });
-
-console.log('✅ Animation script loaded successfully!');
